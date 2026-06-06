@@ -3,7 +3,7 @@
 A "time-entangled" symmetric cipher.
 
 Each encryption is cryptographically unique due to high-precision timestamp integration and chaotic dynamics derived from the exact moment of encryption. This is not the best option by any metric, but it was fun!
-
+Check out my [Medium blog](https://medium.com/@edgarhuemac/cryptographic-experiments-no-1-time-as-cryptography-itself-2da22f1b678a) for more.
 ---
 
 ## Overview
